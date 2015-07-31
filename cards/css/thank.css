@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666; width:100%}
+.wrapper{margin:0 auto; padding:0; width:750px;}
+.main{margin:0; padding:10px 12px 10px 12px; width:731px; border:1px solid #cccccc; float:left;}
+p{padding:0px; margin:0px}
+.fl{float:left;}
+.fr{float:right;}
+.cl{clear:both;}
+
+
+a{color:#3399cc; text-decoration:underline;}
+a:hover{color:#3399cc; text-decoration:underline;}
+
+.txt10{font-size:10px;}
+.txt11{font-size:11px;}
+.txt12{font-size:12px;}
+.txt13{font-size:13px;}
+.txtcen{text-align:center}
+.txt14{font-size:14px;}
+.txt20{font-size:20px;}
+.width234{width:234px}
+.width254{width:254px}
+.width280{width:280px}
+.width317{width:317px}
+.width470{width:470px}
+.width620{width:620px}
+.width715{width:715px}
+.width731{width:731px}
+.width740{width:740px}
+.width785{width:785px}
+.pt3{padding-top:3px}
+.pt5{padding-top:5px}
+.pt8{padding-top:8px}
+.pt14{padding-top:14px}
+.pl6{padding-left:6px}
+.pb5{padding-bottom:5px;}
+.c393939{color:#393939}
+.c70{color:#707070;}
+.c00{color:#000000;}
+.c1b9{color:#1b98ca;}
+
+
+.hdr_logo{ width:731px; height:56px; float:left; background:url(../images/hdr_ban.gif) no-repeat 0 0;}
+h1{ padding:10px 0 10px 0; margin:0px; color:#1b98ca; font-size:26px; font-weight:normal}
+h2{ padding:5px 0 6px 0; margin:0px; color:#1b98ca; font-size:16px; font-weight:normal}
+ol{padding:3px 0 0 16px; *padding:3px 0 0 22px; margin:0px; color:#707070;}
+li{padding:5px 0px 0 0px; margin:0px; font-size:11px;}
+
+
+.dot{ float:left; background:url(../images/dot.gif) repeat-x left center; width:680px}
+
+
+.disclaimer{font-size:10px; color:#7d7d7d; float:left; width:731px; padding:12px 0 0 0}
+.disclaimer p{padding:3px 0 2px 0; margin:0px; float:left; clear:both; text-align:justify;width:715px;}
+
+
+#dvPop_Footer{width:731px;float:left;color:#666;font-size:11px;font-family:Arial, Helvetica, sans-serif;padding:8px 0 4px}
+#dvPop_Footer A{color:#666;text-decoration:none;font-size:11px;font-weight:400}
+#dvPop_Footer A:hover{color:#39c;text-decoration:underline}
+#dv_Footer_link{border-bottom:#d5d5d5 1px solid;border-top:#d5d5d5 1px solid;width:715px;float:left;padding:3px 0}
+.arial-12-b-w{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;line-height:18px;font-variant:normal;text-transform:none;color:#fff}
+.footer-right-box{float:right;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-style:normal;line-height:normal;font-weight:400;font-variant:normal;text-transform:none;color:#666;text-decoration:none;text-align:right}
+.dv_Footer_Col2{text-align:right;width:100px;float:right}
+.dv_Footer_Col1{width:390px;float:left;margin:0}
+.citi-logo{float:left;width:28px;background:url(../images/citi_footer.gif) no-repeat 0 0;height:18px;margin:0 0 0 3px}
+
+
+.link-blue-nor,.link-blue-nor:hover{font-family:Arial, Helvetica, sans-serif;text-transform:none;color:#39c;text-decoration:underline}
+.mq{ float:left; padding:0px; margin:0px; width:640px}
+.mq_n{ float:left; padding:0 0 0 13px; margin:0px; width:635px}
+.mq_fs{float:left; padding:2px 12px 12px 10px; margin:0px; width:600px}
+.mq_fs_n{float:left; padding:2px 12px 12px 15px; margin:0px; width:600px}
+
+.width35{width:35px}
+.iss_inf{ float:left; padding:0px; margin:0px;font-size:11px}
+.iss_inf p{ float:left; clear:both; padding:5px 0 5px 0; margin:0px;}
+.width110{width:110px}
+.width145{width:145px}
+.width165{width:165px}
+.width175{width:175px}
+.width190{width:190px}
+.width210{width:210px}
+.width350{width:350px}
+checkbox{padding:0px; margin:0px}
+.txtarea-feedback:focus{outline:none;}
+.txtfld-others:focus{outline:none;}
+#b-scrn{position:absolute; float:left;width:100%;height:1200px;z-index:8;background-color:#000000; _background:none;filter: Alpha(opacity='50'); -moz-opacity:0.5;opacity:0.5;display: none; cursor:pointer;left:0px;}
+#ref{z-index:100;display:none;position:absolute;width:473px;height:180px;top:0px;left:0px;}
